@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobCompLab1</string>
+    <string name="log_in">Log in</string>
+    <string name="Map_Activity_Print">Here will be some map things</string>
+    <string name="Time_Activity_Print"> Here will be some timer things</string>
+    <string name="title_activity_basic_">Basic_Activity</string>
+    <string name="MapButtonText">MAP</string>
+    <string name="MenuButtonText">Menu</string>
+    <string name="title_activity_time">TimeActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+</resources>
